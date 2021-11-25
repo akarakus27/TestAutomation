@@ -1,4 +1,9 @@
-# Requirements
+# Test Automation
+   * Bu proje Javanın selenium kütüphanesi kullanılarak yazılmıştır.
+
+
+
+##  Requirements
 
 * Java 8 or higher version should be installed (Version 8 is preferred)
 
